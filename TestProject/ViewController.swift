@@ -28,5 +28,8 @@ class ViewController: UIViewController {
     //I have not idea what Git is
     //Fancy function -  So happy
 
+    //More fancy functions
+    //Much fancy much wow
+
 }
 
