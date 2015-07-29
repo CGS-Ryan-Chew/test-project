@@ -25,6 +25,8 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    //I have not idea what Git is
+    //Fancy function -  So happy
 
 }
 
